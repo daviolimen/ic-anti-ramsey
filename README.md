@@ -21,7 +21,7 @@ O projeto tem caráter predominantemente formativo. Seu objetivo é desenvolver 
 | Mês | Etapa | Carga prevista | Situação |
 | --- | --- | ---: | --- |
 | Agosto | Revisão da formação matemática básica | 25 horas | Concluída |
-| Setembro | Introdução à Combinatória e à Teoria dos Grafos | 25 horas | Planejada |
+| Setembro | Introdução à Combinatória e à Teoria dos Grafos | 25 horas | Concluída |
 | Outubro | Método probabilístico e grafos aleatórios | 30 horas | Planejada |
 | Novembro | Colorações e preparação para problemas anti-Ramsey | 30 horas | Planejada |
 | **Total** |  | **110 horas** |  |
@@ -30,7 +30,7 @@ O projeto tem caráter predominantemente formativo. Seu objetivo é desenvolver 
 
 - [x] Definição do cronograma e do percurso formativo;
 - [x] Revisão dos fundamentos matemáticos;
-- [ ] Estudo introdutório de Combinatória e Teoria dos Grafos;
+- [x] Estudo introdutório de Combinatória e Teoria dos Grafos;
 - [ ] Estudo do método probabilístico e de grafos aleatórios;
 - [ ] Introdução às colorações *rainbow* e à teoria anti-Ramsey;
 - [ ] Investigação de um problema introdutório.
@@ -39,7 +39,7 @@ O projeto tem caráter predominantemente formativo. Seu objetivo é desenvolver 
 
 Os registros abaixo são atualizados ao longo do semestre com as atividades efetivamente realizadas e suas respectivas cargas horárias.
 
-**Carga horária contabilizada: 25 de 100 horas.**
+**Carga horária contabilizada: 56 de 100 horas.**
 
 | Data | Atividade desenvolvida | Duração | Observações ou resultados |
 | --- | --- | ---: | --- |
@@ -49,11 +49,16 @@ Os registros abaixo são atualizados ao longo do semestre com as atividades efet
 | Agosto de 2026 | Revisão de conceitos elementares de probabilidade | 5 horas | Estudo de espaço amostral, eventos, probabilidade condicional e variáveis aleatórias |
 | Agosto de 2026 | Resolução de exercícios de consolidação | 5 horas | Aplicação dos conteúdos revisados e análise das soluções obtidas |
 | Agosto de 2026 | Definição do cronograma e organização do percurso de estudos | — | Estrutura inicial do projeto definida |
+| Setembro de 2026 | Estudo do Capítulo 1 do livro-texto (Princípios e Técnicas Básicas) | 6 horas | Leitura do capítulo e estudo das demonstrações |
+| Setembro de 2026 | Resolução de exercícios do Capítulo 1 | 4 horas | Aplicação das técnicas de contagem e demonstração do capítulo |
+| Setembro de 2026 | Estudo das Seções 2.1 a 2.3 do livro-texto (Fundamentos, Árvores e Grafos bipartidos) | 8 horas | Conceitos fundamentais de Teoria dos Grafos |
+| Outubro de 2026 | Estudo das Seções 2.4 a 2.7 do livro-texto (Coloração de vértices, Emparelhamentos, Ciclos hamiltonianos e Trilhas eulerianas) | 8 horas | Estudo de resultados como os teoremas de Brooks, Hall e Dirac |
+| Outubro de 2026 | Resolução de uma seleta de exercícios da Seção 2.8 | 5 horas | Exercícios selecionados do Capítulo 2 |
 
 > A carga horária registrada no diário considera apenas atividades de estudo e investigação. Reuniões de orientação, elaboração do relatório e produção do vídeo final não são contabilizadas nas 100 horas exigidas pela disciplina.
 
 ## Referências
 
-- Livro-texto de Combinatória adotado no projeto;
+- **Livro-texto:** BOTLER, Fábio; COLLARES, Maurício; MARTINS, Taísa; MENDONÇA, Walner; MORRIS, Rob; MOTA, Guilherme. *Combinatória*. Rio de Janeiro: IMPA, 2021. 33º Colóquio Brasileiro de Matemática. ISBN 978-65-89124-53-5.
 - Obra de Stasys Jukna indicada pela orientação;
 - Listas de exercícios, notas de aula e artigos introdutórios selecionados ao longo do projeto.
